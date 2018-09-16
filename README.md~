@@ -1,0 +1,110 @@
+# Self Study
+
+The goal of this course will be self study.  It is intended for me, but you are free to follow it as well.  I will merely be documenting my personal learning journey here.
+In the spirit of open source, I will being making it publicly available.  I don't intend on any pedagogy, nor intuition.  I will keep things at a level that is suitable for me.
+If you can't keep up or something doesn't make sense to you, I don't care.  In other parts of this account, I will make every attempt to explain myself clearly.
+But this repo and set of materials is for me to learn, at my pace, not anyone elses.  If something is missing or unclear, too bad.  You can always fork the repo and add it yourself.
+I will accept no Pull Requests and I will make no changes based on the feedback of others.
+
+In other words, if you don't like what I've written or what I will likely write, too bad.
+
+## The Content
+
+The intention of this material is to prepare myself for my job and for my personal goals outside of work, specifically being helpful.  I have done things in the past, but my skills have degraded.
+So this is an attempt to recover my skills and to do so on my terms.  I will be obsessed with this until I feel confident in where I am at.
+
+### Mathematics
+
+For this section I will be going up to category theory, starting at basic mathematics.  I will assume I know nothing and move to a place where I am ready for category theory.
+
+Up to the end of High School: Khan Academy
+
+College:
+* Calculus 1
+* Calculus 2
+* Calculus 3
+* Linear Algebra
+* Differential Equations
+* Introduction to Proofs
+* Real Analysis
+* Combinatorics
+* Set Theory (basic)
+* Probability Theory
+* Number Theory
+* Theory of Statistics
+* Stochastic Processes
+* Algebra 1 (Group Theory)
+* Linear Algebra 2
+* Algebra 1 (Schack - Ring Theory)
+* Lie Algebras
+* Algebra 3
+* Complex Analysis
+* Topology 1 
+* Topology 2
+* Algebriac Topology
+* Set Theory
+* Erogodic Theory
+* Category Theory
+
+### Economics
+
+Up to the end of High School: Social Studies - Khan Academy + Crash Course (Youtube channel)
+
+College:
+* Microeconomics 1
+* Macroeconomics 1
+* Intro to Accounting
+* Business Statistics
+* Calculus for Economists 1
+* Calculus for Economists 2
+* Intermediate Microeconomics
+* Intermediate Macroeconomics
+* International Economics
+* Monetary Policy
+* Trade Theory
+* Special Topics - Wealth of Nations
+* Special Topics - Python for Economists
+* Special Topics - Keynes
+* Special Topics - Milton Friedman
+* Special Topics - Joseph Stiglitz
+* Special Topics - Hotelling
+* Special Topics - Winston Chang
+* Special Topics - Paul Krugman
+
+### Computer Science
+
+Up to the end of High School:
+
+* MIT building blocks language - scratch
+* This thing apparently: https://code.org/educate/curriculum/high-school
+* MIT college undergraduate catalog
+
+* Interpreters
+* Testing
+* How to write conventional code (It's not good code, because that doesn't exist)
+* How to read large code bases
+* Tools for programming more efficiently
+* Exercises for becoming a better programmer
+
+### Data Science
+
+Tools:
+* Excel
+* Matlab
+* STATA
+* SAS
+* SPSS
+* R
+* Python
+* Julia
+
+MIT undergraduate courses: https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-14-computer-science-economics-and-data-science
+Graduate level:
+NYU masters in data science: https://cds.nyu.edu/academics/ms-in-data-science/
+PhD in Data Science:
+* algorithmic interpretability
+* algorithmic performance
+* algorithmic loss - measuring error
+* algorithms in detail
+* making a library
+
